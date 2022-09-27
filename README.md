@@ -20,7 +20,7 @@
 ### App Walkthough GIF
 
 
-<img src="https://imgur.com/a/VNcOfgP" width=250><br>
+<img src="https://github.com/cjayversace/Unit3/blob/main/flixter2.gif" width=250><br>
 
 
 # Flixter
@@ -45,7 +45,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/a/rSCMQIA" width=250><br>
+<img src="https://github.com/cjayversace/Unit3/blob/main/FlixsterWalkthrough.gif" width=250><br>
 
 ### Notes
 
